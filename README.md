@@ -1,6 +1,6 @@
 # British-Airways-Data-Analytics
 
-I have worked on 2 tasks with British Airwyas's Data Science team.
+I have worked on 2 tasks with British Airways's Data Science team.
 
 **Task 1:**
 
